@@ -6,7 +6,19 @@ The sentance is still present in 31 states but, due to the shortage of productio
 
 The Eigth Amendment states that, "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
 
-Activits constitute botched executions and the seven-minute-long death from lethal injection as "cruel and unusual." Proponents of the death penalty feel it's unjust for tax dollars to pay for the prison living expenses for those who have raped and murdered with no remorse. But which is cheaper, to sustain someone in the prison system or to execute them? Which method is the most overall constitutional?
+Activits constitute botched executions and the seven-minute-long death from lethal injection as "cruel and unusual." Proponents of the death penalty feel it's unjust for tax dollars to pay for the prison living expenses for those who have raped and murdered with no remorse. But which is cheaper, to sustain someone in the prison system or to execute them? 
+
+Here are the features I'll be collecting and why:
+*The state
+*The general prison population
+*The average amount of tax-payer dollars the state spends per prisoner per year
+*The Death Row inmate population
+*The average age of a Death Row prisoner by state
+*The average life expectancy of of that Death Row prisoner based on the average age condemned and the estimated lifespan a prisoner would have before dying of natural causes
+*The average amount of years a Death Row prisoner spends awaiting execution for which the state will do anything to keep that person alive to see their execution date using tax-payer dolalrs
+*The amount of tax-payer dollars for an execution regarding the lethal injection chemicals, legal fees for a Death Row trial, and life expenses for a Death Row inmate awaiting execution
+*The estimated coast of a life without parole sentence based on the average age of a Death Row prisoner and the estimated life expectncy for them to die of natural causes
+
 
 |State         |Prison Population|Avergae inmate expenditure per year|Death Row Population|Average Age of Death Row Prisoner|Average span of a life sentance|Average time spent on death row|Cost of Execution w/ Lethal Injection|Cost of Life w/o Parole|
 |--------------|-----------------|-----------------------------------|--------------------|---------------------------------|-------------------------------|-------------------------------|-------------------------------------|-----------------------|

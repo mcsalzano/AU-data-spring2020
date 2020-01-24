@@ -8,6 +8,10 @@ The Eigth Amendment states that, "Excessive bail shall not be required, nor exce
 
 Activits constitute botched executions and the seven-minute-long death from lethal injection as "cruel and unusual." Proponents of the death penalty feel it's unjust for tax dollars to pay for the prison living expenses for those who have raped and murdered with no remorse. But which is cheaper, to sustain someone in the prison system or to execute them? Which method is the most overall constitutional?
 
-| State | Prison Population | Avergae cost per inmate per year | Total Prison Expenditures | Death Row Population| Method 1|Number of Executions Under Method 1|Cost of Execution for Method 1|Total for Method 1|
-| ------|-------------| -----|-----|------------- |-------------| -----|-----|-----|
-| Alabama | 27,353| $22,024.10 |602,425,207.30 | 175|
+|State         |Prison Population|Avergae inmate expenditure per year|Death Row Population|Average Age of Death Row Prisoner||Average span of a life sentance|Average time spent on death row|Cost of Execution w/ Lethal Injection|Cost of Life w/o Parole|
+|--------------|-----------------|-----------------------------------|--------------------|---------------------------------|--------------------------------|-------------------------------|-------------------------------------|-----------------------|
+|Texas         |137,529          |$19,892                            |212                 |39                               |21 years                        |11 years                       |$83,000,000                          |$417,732               |
+|Virginia      |37,813           |$21,299                            |4                   |47                               |13 years                        |7 years                        |$16,500                              |$276,887               |
+|Missouri      |32,564           |$21,480                            |41                  |36.5                             |23.5 years                      |11.9 years                     |$391,000                             |$504,780               |
+|Florida       |97,724           |$20,440                            |340                 |44.9                             |15.1 years                      |15 years                       |$24,000,000                          |$308,644               |
+|South Carolina|19,774           |$23,711                            |37                  |34                               |26 years                        |14.5 years                     |$1,100,000                           |616,489                |

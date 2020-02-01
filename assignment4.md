@@ -1,4 +1,4 @@
-Hed: Altria Stock Falls After FDA Prioritizes Crack Downs on Juul Flavors
+Hed: Altria Stock Falls After, Could Its New Lobbying Strategy Turn Its Luck Around
 
 Nut graf:  Altria stock (MO), parent company of Juul Labs, fell 5.6% this week amidst crackdowns from the FDA to limit Juul pod flavors. The FDA is also threatening to regulate the nicotine content Juul is allowed to put in its pods.
 
@@ -13,3 +13,4 @@ In order to find my story I:
 3. Compared Juul's contributions by party:
   * Took the sum of the positive and negative contributions to Republicans
   * Took the sum of the positive and negative contributions to Democrats
+4. Searched the story online and realized that a story about the data being released had already been written, so I took a more current angle in light of the more recent regulation restraints that have been going on and are impending. It is more of a story that this data is important to.

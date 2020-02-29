@@ -1,11 +1,16 @@
+# Hurricane Michael Hit the Forgotten Coast in 2018, But We Can't Forget About Its Students
+
+### After the Category 5 Hurricane ripped through the Florida panhandle 16 months ago, school systems are still recovering.
+
 Tom Lewis grew up in Panama City, Florida. When he was younger, all he wanted to do was get out. After attending graduate school in Tallahassee and working in Miami, eventually, the white sand beaches called him back to raise his family and build his career as the news director of his hometown’s local news station, WMBB. “That stands for World’s Most Beautiful Beaches,” Lewis, 62, said. “It’s true!”
 
 In 2018, those beaches were slammed by the third most powerful hurricane in history. Hurricane Michael caused billions of dollars in damage to  Florida’s forgotten coast before making its way north up to the county’s more rural areas, not only destroying gas stations and grocery stores, but also majorly disrupting the school systems. The rebuilding has been slow, which has led to growing homelessness and declining school enrollment.
 
 Data from Florida’s Office of Economic and Demographic Research tracking Florida’s public school enrollment over the past 10 years shows sudden declines over some years.  
+
 Hurricane Michael made landfall on Florida’s Forgotten Coast on Oct. 10 devastating the area, in particular Bay County. 
 
-Since Hurricane Michael, Bay County has seen a 6% decline in public school enrollment from the 2017/2018 school year to the 2018/2019 school year for grades pre-kindergarten through 12, according to data released by Florida’s Office of Economic and Demographic Research. This amounts to about 1,630 students who did not come back this past September. 
+Since Hurricane Michael, Bay County has seen a 6% decline in public school enrollment from the 2017/2018 school year to the 2018/2019 school year for grades pre-kindergarten through 12, according to data released by Florida’s Office of Economic and Demographic Research. This amounts to about 1,630 students who were not in school compared to the year before. 
 
 The Gulf County and Calhoun County school systems each lost over 70 students, equivalent to 3.7% and 3.4% declines in enrollment, respectively, since last year. Jackson County saw a 1.9% decline amounting to about 122 students. All of these counties were pounded by Hurricane Michael 16 months ago.
 
